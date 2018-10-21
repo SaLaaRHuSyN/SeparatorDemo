@@ -1,0 +1,10 @@
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\bin\Debug\SeparatorDemo.exe.config
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\bin\Debug\SeparatorDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\bin\Debug\SeparatorDemo.pdb
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\obj\Debug\SeparatorDemo.csprojResolveAssemblyReference.cache
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\obj\Debug\SeparatorDemo.Form1.resources
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\obj\Debug\SeparatorDemo.Properties.Resources.resources
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\obj\Debug\SeparatorDemo.csproj.GenerateResource.Cache
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\obj\Debug\SeparatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\obj\Debug\SeparatorDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\SeparatorDemo\SeparatorDemo\obj\Debug\SeparatorDemo.pdb

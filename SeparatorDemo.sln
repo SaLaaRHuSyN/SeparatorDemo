@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeparatorDemo", "SeparatorDemo\SeparatorDemo.csproj", "{058A43C8-069A-4DCE-82F8-E757F676363C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058A43C8-069A-4DCE-82F8-E757F676363C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058A43C8-069A-4DCE-82F8-E757F676363C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058A43C8-069A-4DCE-82F8-E757F676363C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058A43C8-069A-4DCE-82F8-E757F676363C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FD85B50-F6B3-4B0A-B673-8DA27587016D}
+	EndGlobalSection
+EndGlobal
